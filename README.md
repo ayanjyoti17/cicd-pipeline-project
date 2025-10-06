@@ -1,7 +1,5 @@
 # CI/CD Pipeline for a Node.js Web Application 🚀
 
-![CI/CD Pipeline Status](https://github.com/ayan jyoti17/cicd-pipeline-project/actions/workflows/main.yml/badge.svg)
-
 This project demonstrates a complete, automated CI/CD (Continuous Integration/Continuous Deployment) pipeline for a simple Node.js web application. When new code is pushed to the `main` branch, a GitHub Actions workflow is automatically triggered to build, package, and deploy the application to a live server on AWS.
 
 ---
